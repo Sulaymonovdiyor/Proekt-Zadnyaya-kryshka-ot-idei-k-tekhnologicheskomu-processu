@@ -1,4 +1,4 @@
-# Proekt-Zadnyaya-kryshka-ot-idei-k-tekhnologicheskomu-processu
+#Проект "Задняя крышка" от идеи к технологическому процессу
 
 **Техническое задание**
 
